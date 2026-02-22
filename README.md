@@ -2,7 +2,7 @@
 
 Hyundai Stock Data Analysis is a beginner-friendly financial data exploration project built using Python, Pandas, NumPy, Matplotlib, and Seaborn. This project analyzes historical stock price data of Hyundai Motor Company and applies core data analysis techniques to understand price behavior, trading volume patterns, volatility trends, and correlations between financial variables.
 
-This project was developed as part of my Python Essentials for MLOps learning journey and focuses on practical implementation of foundational data analytics concepts.
+This project was developed as part of my Python Essentials for MLOps learning journey and focuses on practical implementation of core data analytics concepts including time-series preprocessing, return calculation, rolling volatility, correlation analysis, and financial trend visualization.
 
 ⸻
 
